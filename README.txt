@@ -1,3 +1,4 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/ahoy/pen/waxxLV.
+VaynerMedia homework #1 - a simple jQuery modal
 
+live demo at http://codepen.io/ahoy/pen/waxxLV
  
